@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is A.Akshith from NIT Calicut.
+This is Akshith from NIT Calicut.
 <!--
 **souledone/souledone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
