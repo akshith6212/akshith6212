@@ -17,11 +17,12 @@ I'm a Student from NIT Calicut writing c++ and Python(Machine Learning)
 #### The master has failed more times than the beginner has tried. 
 Unknown
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshith6212&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/akshith6212)
 
-<!--
+
 **souledone/souledone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
