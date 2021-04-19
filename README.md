@@ -2,7 +2,7 @@
 This is Akshith.  
 I'm a Student from NIT Calicut writing c++ and Python(Machine Learning)
 
-- Currently Learning Golang.
+
 
 #### Useful Links
 - [Twitter](https://twitter.com/akshith6212)
