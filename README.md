@@ -8,7 +8,7 @@ I'm a Student from NIT Calicut writing c++ and Python(Machine Learning)
 - [Twitter](https://twitter.com/akshith6212)
 - [LinkedIn](https://www.linkedin.com/in/akshith-ananthula/)
 - [Codeforces](https://codeforces.com/profile/akshith6212)
-- [codechef](https://www.codechef.com/users/akshith6212)
+- [Codechef](https://www.codechef.com/users/akshith6212)
 <!--
 - [Dev](https://dev.to/akshith6212)
 - [Personal Website](https://akshith.cf/)
